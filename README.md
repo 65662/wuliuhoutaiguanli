@@ -4,6 +4,9 @@
 ```
 npm install
 ```
+```
+npm run mock
+```
 
 ### Compiles and hot-reloads for development
 ```
